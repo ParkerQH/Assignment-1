@@ -13,7 +13,7 @@ def Multiplication(a, b):
 # 나누기
 def division(a, b):
     if b == 0:
-        return "0으로 나눌 수 없습니다."
+        return "다시 입력해주세요"
     return a / b
 
 # 출력
